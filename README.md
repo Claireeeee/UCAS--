@@ -7,6 +7,7 @@ ScheduleOptimization pass generates a schedule tree from data dependences and it
 To build :
 
 `mkdir build && cd build && cmake .. && make -j4 `
+
 To test (after build) : 
 
 `make test`
