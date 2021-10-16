@@ -1,4 +1,4 @@
-#fuselage-experiment
+# fuselage-experiment
 
 ScheduleOptimization LLVM pass - based on LLVM 12
 
@@ -6,8 +6,7 @@ ScheduleOptimization pass generates a schedule tree from data dependences and it
 
 To build :
 
-'mkdir build && cd build && cmake .. && make -j4'
-
+`mkdir build && cd build && cmake .. && make -j4 `
 To test (after build) : 
 
-'make test'
+`make test`
